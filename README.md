@@ -41,4 +41,4 @@ This project estimates the hidden health state (compressor, combustor, turbine e
 
 ## Team
 
-Vishal Gangwar — Indian Institute of Technology Indore
+Vishal Gangwar — Govind Ballabh Pant Institute of Engineerimg and Technology 
